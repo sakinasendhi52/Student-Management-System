@@ -68,7 +68,7 @@
       "name": "Sneha Joshi",
       "rollNumber": "106",
       "phone": "9876543215",
-      "email": "sneha@gmail.com",
+      "email": "snehajoshi@gmail.com",
       "age": 14,
       "class": "9",
       "grade": "B",
@@ -118,5 +118,6 @@
       "grade": "A",
       "image": "https://i.pravatar.cc/150?img=49"
     }
-  ]
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
