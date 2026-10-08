@@ -401,7 +401,7 @@ student-management
 
 <div align="center">
 
-**Sakina Sendhi**
+**Sakina Mufaddal Sendhi**
 
 [![GitHub](https://img.shields.io/badge/GitHub-sakinasendhi52-181717?style=for-the-badge&logo=github)](https://github.com/sakinasendhi52)
 
