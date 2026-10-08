@@ -19,7 +19,6 @@
 * [How It Works](#-how-it-works)
 * [Project Structure](#-project-structure)
 * [Screenshot](#-screenshot)
-* [Demo](#-demo)
 * [Author](#-author)
 
 ---
@@ -362,7 +361,7 @@ student-management
 
 ## 📸 Screenshot
 
-### Login Page
+### Sign In Page
 
 <img src="public/output/signIn.jpeg" width="800" alt="Sign In Page">
 
