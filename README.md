@@ -387,9 +387,13 @@ student-management
 
 <img src="public/output/addStudent.jpeg" width="800" alt="Add Student Form">
 
+### Edit Student Form
+
+<img src="public/output/editStudent.jpeg" width="800" alt="Edit Student Form">
+
 ### Profile
 
-<img src="public/output/profile.jpeg" width="800" alt="Profile">
+<img src="public/output/admin.jpeg" width="800" alt="Profile">
 
 ---
 
