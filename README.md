@@ -191,9 +191,6 @@ The application will run on `http://localhost:5173`.
 Email    : admin@gmail.com
 Password : 123456
 ```
-
-> **Note:** Both servers must be running at the same time. If the JSON Server is not running, the student list will stay empty.
-
 ---
 
 ## 📚 React Concepts Covered
@@ -360,8 +357,6 @@ student-management
         ├── reducers
         └── store.js
 ```
-
-> Adjust the `redux` folder to match your own file names if they differ.
 
 ---
 
