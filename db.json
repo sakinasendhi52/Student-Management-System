@@ -1,0 +1,122 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "students": [
+    {
+      "id": "1",
+      "name": "Rahul Sharma",
+      "rollNumber": "101",
+      "phone": "9876543210",
+      "email": "rahul@gmail.com",
+      "age": 15,
+      "class": "10",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=12"
+    },
+    {
+      "id": "2",
+      "name": "Priya Patel",
+      "rollNumber": "102",
+      "phone": "9876543211",
+      "email": "priya@gmail.com",
+      "age": 14,
+      "class": "9",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=47"
+    },
+    {
+      "id": "3",
+      "name": "Amit Kumar",
+      "rollNumber": "103",
+      "phone": "9876543212",
+      "email": "amit@gmail.com",
+      "age": 16,
+      "class": "11",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=11"
+    },
+    {
+      "id": "4",
+      "name": "Neha Singh",
+      "rollNumber": "104",
+      "phone": "9876543213",
+      "email": "neha@gmail.com",
+      "age": 15,
+      "class": "10",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=44"
+    },
+    {
+      "id": "5",
+      "name": "Arjun Mehta",
+      "rollNumber": "105",
+      "phone": "9876543214",
+      "email": "arjun@gmail.com",
+      "age": 17,
+      "class": "12",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=13"
+    },
+    {
+      "id": "6",
+      "name": "Sneha Joshi",
+      "rollNumber": "106",
+      "phone": "9876543215",
+      "email": "sneha@gmail.com",
+      "age": 14,
+      "class": "9",
+      "grade": "B",
+      "image": "https://i.pravatar.cc/150?img=45"
+    },
+    {
+      "id": "7",
+      "name": "Rohan Desai",
+      "rollNumber": "107",
+      "phone": "9876543216",
+      "email": "rohan@gmail.com",
+      "age": 16,
+      "class": "11",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=14"
+    },
+    {
+      "id": "8",
+      "name": "Kavya Shah",
+      "rollNumber": "108",
+      "phone": "9876543217",
+      "email": "kavya@gmail.com",
+      "age": 15,
+      "class": "10",
+      "grade": "A+",
+      "image": "https://i.pravatar.cc/150?img=48"
+    },
+    {
+      "id": "9",
+      "name": "Vikram Patel",
+      "rollNumber": "109",
+      "phone": "9876543218",
+      "email": "vikram@gmail.com",
+      "age": 17,
+      "class": "12",
+      "grade": "B+",
+      "image": "https://i.pravatar.cc/150?img=15"
+    },
+    {
+      "id": "10",
+      "name": "Ananya Rao",
+      "rollNumber": "110",
+      "phone": "9876543219",
+      "email": "ananya@gmail.com",
+      "age": 14,
+      "class": "9",
+      "grade": "A",
+      "image": "https://i.pravatar.cc/150?img=49"
+    }
+  ]
+}

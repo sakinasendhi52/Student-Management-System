@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@import "flowbite-react/plugin/tailwindcss";
+@source "../.flowbite-react/class-list.json";
+
+@theme {
+  --color-forest: #174D38;
+  --color-forest-light: #1F6348; /* hover shade of the green */
+  --color-wine: #4D1717;
+  --color-wine-light: #6B2323;   /* hover shade of the maroon */
+  --color-mist: #F2F2F2;
+  --color-silver: #CBCBCB;
+  --color-ink: #1C1C1C;          /* main dark text on light backgrounds */
+}
