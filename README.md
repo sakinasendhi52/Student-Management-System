@@ -401,9 +401,9 @@ student-management
 
 <div align="center">
 
-**Your Name**
+**Sakina Sendhi**
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-sakinasendhi52-181717?style=for-the-badge&logo=github)](https://github.com/sakinasendhi52)
 
 ⭐ Thank you for visiting this repository!
 
